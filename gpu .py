@@ -1,0 +1,2 @@
+"options = {\"model\": \"cfg/yolo.cfg\", \"load\": \"bin/yolo.weights\", \"threshold\": 0.10,\"gpu\":1}\n",
+    "#options = {\"model\": \"cfg/tiny-yolo-voc.cfg\", \"load\": \"bin/tiny-yolo-voc.weights\", \"threshold\": 0.2,\"gpu\":1}\n",
